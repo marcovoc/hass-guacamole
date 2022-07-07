@@ -16,6 +16,7 @@
     "ingress": true,
     "ingress_port": 8080,
     "image": "maxwaldorf/guacamole",
+    "map": ["config:rw"],
     "options": {},
     "ports": {
     "8080/tcp": null
